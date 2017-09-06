@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/9/5 15:37:22。
+     1>项目“C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\libzkfpDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Users\dell\visual studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\libzkfpDemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DlgaData.cpp
+         DlgaData.cpp
+       Link:
+         C:\Users\dell\visual studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\Debug\libzkfpDemo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Users\dell\visual studio 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\Debug\libzkfpDemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\Debug\libzkfpDemo.lib" /MACHINE:X86 /SAFESEH Debug\libzkfpDemo.res
+         Debug\base64.obj
+         Debug\DlgaData.obj
+         Debug\DlgAdmin.obj
+         Debug\DlgUser.obj
+         Debug\libzkfpDemo.obj
+         Debug\libzkfpDemoDlg.obj
+         Debug\LogWriter.obj
+         Debug\PassDlg.obj
+         Debug\stdafx.obj
+         libzkfpDemo.vcxproj -> C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\Debug\libzkfpDemo.exe
+     1>已完成生成项目“C:\Users\dell\Desktop\8.31,8.27\libzkfpDemo2\libzkfpDemo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.15

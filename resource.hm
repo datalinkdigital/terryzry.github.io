@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by libzkfpDemo.rc
+//
+#define HIDC_BTN_DBCLEAR                0x806603eb    // IDD_LIBZKFPDEMO_DIALOG
